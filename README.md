@@ -1,6 +1,6 @@
 # Medical Pager
 ***
-## Full project here: [[https://social-media-petproject.netlify.app/](https://app-medical-pager.netlify.app/)](https://app-unichat.netlify.app/)
+## Full project here: https://app-unichat.netlify.app/
 
 Is responsible: true
 
